@@ -1,0 +1,6 @@
+.NavBar a {
+  padding: 0.5em 0;
+  width: 100px;
+  display: inline-block;
+  color: black;
+}
